@@ -2,9 +2,9 @@
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueVM8&bg_color=0d1117&color=DCDCDC&line=1f1e1e&point=16fd00&area=true&hide_border=true)](github-readme-activity-graph)
 
-<div>
+<div align="center">
   <a href="https://github.com/HenriqueVM8/github-readme-stats">
-      <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=HenriqueVM8&show_icons=true&include_all_commits=true&theme=dark" alt="HenriqueVM8 github stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueVM8&show_icons=true&include_all_commits=true&theme=dark" alt="HenriqueVM8 github stats"/>
       <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueVM8&layout=compact&theme=dark" />
     <a/>
 </div>

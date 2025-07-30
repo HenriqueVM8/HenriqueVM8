@@ -1,4 +1,4 @@
-# Hi, i'm Henrique Marcos
+# Hi there, I'm Henrique Marcos
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueVM8&bg_color=0d1117&color=DCDCDC&line=1f1e1e&point=16fd00&area=true&hide_border=true)](github-readme-activity-graph)
 
@@ -7,9 +7,9 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueVM8&show_icons=true&include_all_commits=true&theme=dark" alt="HenriqueVM8 github stats"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueVM8&layout=compact&theme=dark" />
   </a>
-</div>
+</div> <br>
 
-<div style="display: inline-block" align="center" margin-top="2em">
+<div align="center">
   <!-- HTML Icon -->
   <img src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png">&nbsp;
   <!-- CSS Icon -->

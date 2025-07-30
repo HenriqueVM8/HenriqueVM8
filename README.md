@@ -10,11 +10,20 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<p align="center">
+  <!-- HTML Icon -->
+  <img src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png">&nbsp;
+  <!-- CSS Icon -->
+  <img src="https://user-images.githubusercontent.com/35739995/122655003-80cf5a80-d125-11eb-9718-c0d416a29986.png">&nbsp;
+  <!-- JS Icon -->
+  <img height='40' src="https://user-images.githubusercontent.com/35739995/122655475-c0e40c80-d128-11eb-9608-c8667123c1b4.png">&nbsp;
+  <!-- Git Icon -->
+  <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
+</p>
+
 
 ##
 

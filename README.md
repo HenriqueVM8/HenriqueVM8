@@ -9,10 +9,6 @@
   </a>
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
-
 <p align="center">
   <!-- HTML Icon -->
   <img src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png">&nbsp;

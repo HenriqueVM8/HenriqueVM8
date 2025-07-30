@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<p align="center">
+<div style="display: inline-block" align="center" margin-top="2em">
   <!-- HTML Icon -->
   <img src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png">&nbsp;
   <!-- CSS Icon -->
@@ -19,8 +19,8 @@
   <!-- Git Icon -->
   <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
   <!-- Github Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="border-radius: 12px; margin: 10px; background-color: white; padding: 6px;" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"" />
+</div>
 
 
 ##
